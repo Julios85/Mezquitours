@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  @apply bg-gray-50;
+}
+
+/* Active navigation link */
+.active-link {
+  @apply bg-primary bg-opacity-10 text-primary border-r-4 border-primary;
+}
+
+/* Button primary */
+.btn-primary {
+  @apply bg-primary hover:bg-primary-dark text-white px-6 py-2.5 rounded-lg transition-colors;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a1a1a1;
+}
