@@ -235,7 +235,7 @@ export class DummyDataService {
         pais: 'México',
         estrellas: 5,
         precioNoche: 4500,
-        imagen: 'https://images.unsplash.com/photo-1566073771259-6a8506099945',
+        imagen: 'https://picsum.photos/400/300?random=1',
         amenidades: ['Playa', 'Spa', 'Restaurantes', 'Bar', 'Gimnasio'],
         disponible: true
       },
@@ -246,7 +246,7 @@ export class DummyDataService {
         pais: 'México',
         estrellas: 5,
         precioNoche: 8500,
-        imagen: 'https://images.unsplash.com/photo-1582719508461-905c673771fd',
+        imagen: 'https://picsum.photos/400/300?random=2',
         amenidades: ['All Inclusive', 'Parques', 'Spa', 'Ríos subterráneos'],
         disponible: true
       },
@@ -257,7 +257,7 @@ export class DummyDataService {
         pais: 'México',
         estrellas: 4,
         precioNoche: 3200,
-        imagen: 'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa',
+        imagen: 'https://picsum.photos/400/300?random=3',
         amenidades: ['Playa', 'Piscina', 'Restaurante', 'Gimnasio'],
         disponible: true
       },
@@ -268,7 +268,7 @@ export class DummyDataService {
         pais: 'Estados Unidos',
         estrellas: 5,
         precioNoche: 12000,
-        imagen: 'https://images.unsplash.com/photo-1564501049412-61c2a3083791',
+        imagen: 'https://picsum.photos/400/300?random=4',
         amenidades: ['Playa privada', 'Spa', 'Restaurantes gourmet', 'Club de playa'],
         disponible: true
       },
@@ -279,7 +279,7 @@ export class DummyDataService {
         pais: 'Francia',
         estrellas: 5,
         precioNoche: 15000,
-        imagen: 'https://images.unsplash.com/photo-1445019980597-93fa8acb246c',
+        imagen: 'https://picsum.photos/400/300?random=5',
         amenidades: ['Vista al mar', 'Restaurante Michelin', 'Arte', 'Concierge'],
         disponible: true
       },
@@ -290,7 +290,7 @@ export class DummyDataService {
         pais: 'Grecia',
         estrellas: 5,
         precioNoche: 18000,
-        imagen: 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff',
+        imagen: 'https://picsum.photos/400/300?random=6',
         amenidades: ['Vista caldera', 'Piscina infinita', 'Spa', 'Restaurante'],
         disponible: true
       }

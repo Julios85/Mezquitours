@@ -582,7 +582,7 @@ export class CarritoComponent {
       tipo: 'tour',
       nombre: 'Europa Romántica - 15 días',
       descripcion: 'París, Roma y Barcelona con vuelos incluidos',
-      imagen: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400',
+      imagen: 'https://picsum.photos/seed/photo-1502602898657-3e91760cbb34?w=400',
       precio: 68000,
       fechaInicio: new Date('2026-06-15'),
       fechaFin: new Date('2026-06-30'),
@@ -594,7 +594,7 @@ export class CarritoComponent {
       tipo: 'hotel',
       nombre: 'Grand Fiesta Americana Cancún',
       descripcion: '5 noches All Inclusive',
-      imagen: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400',
+      imagen: 'https://picsum.photos/seed/photo-1566073771259-6a8506099945?w=400',
       precio: 22500,
       fechaInicio: new Date('2026-07-10'),
       fechaFin: new Date('2026-07-15'),
@@ -606,7 +606,7 @@ export class CarritoComponent {
       tipo: 'servicio',
       nombre: 'Paquete Fotografía Boda',
       descripcion: 'Sesión pre-boda + cobertura completa + álbum',
-      imagen: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=400',
+      imagen: 'https://picsum.photos/seed/photo-1519741497674-611481863552?w=400',
       precio: 25000
     });
   }

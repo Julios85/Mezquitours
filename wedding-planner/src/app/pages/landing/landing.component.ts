@@ -58,7 +58,7 @@ import { CarritoService } from '../../shared/services/carrito.service';
       <!-- Hero Section -->
       <section class="relative h-screen flex items-center justify-center overflow-hidden">
         <div class="absolute inset-0 bg-gradient-to-r from-black/60 to-black/30 z-10"></div>
-        <img src="https://images.unsplash.com/photo-1519741497674-611481863552?w=1920" alt="Wedding"
+        <img src="https://picsum.photos/seed/photo-1519741497674-611481863552?w=1920" alt="Wedding"
              class="absolute inset-0 w-full h-full object-cover">
         <div class="relative z-20 text-center text-white max-w-4xl px-6">
           <h1 class="text-5xl md:text-7xl font-bold mb-6">Creamos Momentos Inolvidables</h1>
@@ -195,7 +195,7 @@ import { CarritoService } from '../../shared/services/carrito.service';
               </button>
             </div>
             <div class="relative">
-              <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600" alt="Promo" class="rounded-2xl shadow-2xl">
+              <img src="https://picsum.photos/seed/photo-1540575467063-178a50c2df87?w=600" alt="Promo" class="rounded-2xl shadow-2xl">
               <div class="absolute -bottom-6 -left-6 bg-white text-gray-800 p-6 rounded-xl shadow-xl">
                 <p class="text-sm text-gray-500">Desde</p>
                 <p class="text-3xl font-bold text-primary">$19,900</p>
@@ -429,9 +429,9 @@ export class LandingComponent {
   regionActiva = 'europa';
 
   servicios = [
-    { titulo: 'Bodas', descripcion: 'El día perfecto para tu historia de amor', imagen: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=600' },
-    { titulo: 'XV Años', descripcion: 'Una celebración única e inolvidable', imagen: 'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600' },
-    { titulo: 'Viajes', descripcion: 'Descubre destinos de ensueño', imagen: 'https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600' }
+    { titulo: 'Bodas', descripcion: 'El día perfecto para tu historia de amor', imagen: 'https://picsum.photos/seed/photo-1519741497674-611481863552?w=600' },
+    { titulo: 'XV Años', descripcion: 'Una celebración única e inolvidable', imagen: 'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=600' },
+    { titulo: 'Viajes', descripcion: 'Descubre destinos de ensueño', imagen: 'https://picsum.photos/seed/photo-1476514525535-07fb3b4ae5f1?w=600' }
   ];
 
   regiones = [
@@ -442,18 +442,18 @@ export class LandingComponent {
   ];
 
   tours = [
-    { destino: 'París Romántico', duracion: '7 días', precio: 45000, precioAnterior: 52000, descuento: 15, region: 'europa', imagen: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400' },
-    { destino: 'Roma Imperial', duracion: '6 días', precio: 38000, region: 'europa', imagen: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=400' },
-    { destino: 'Barcelona Gaudí', duracion: '5 días', precio: 32000, region: 'europa', imagen: 'https://images.unsplash.com/photo-1583422409516-2895a77efded?w=400' },
-    { destino: 'Santorini', duracion: '6 días', precio: 55000, precioAnterior: 65000, descuento: 15, region: 'europa', imagen: 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=400' },
-    { destino: 'Cancún', duracion: '5 días', precio: 19900, precioAnterior: 25000, descuento: 20, region: 'mexico', imagen: 'https://images.unsplash.com/photo-1552074284-5e88ef1aef18?w=400' },
-    { destino: 'Los Cabos', duracion: '4 días', precio: 22000, region: 'mexico', imagen: 'https://images.unsplash.com/photo-1519046904884-53103b34b206?w=400' },
-    { destino: 'Puerto Vallarta', duracion: '5 días', precio: 18500, region: 'mexico', imagen: 'https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=400' },
-    { destino: 'Riviera Maya', duracion: '6 días', precio: 24000, region: 'mexico', imagen: 'https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400' },
-    { destino: 'Machu Picchu', duracion: '8 días', precio: 35000, region: 'latam', imagen: 'https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=400' },
-    { destino: 'Buenos Aires', duracion: '6 días', precio: 28000, region: 'latam', imagen: 'https://images.unsplash.com/photo-1612294037637-ec328d0e075e?w=400' },
-    { destino: 'Punta Cana', duracion: '7 días', precio: 29500, precioAnterior: 38000, descuento: 22, region: 'caribe', imagen: 'https://images.unsplash.com/photo-1548574505-5e239809ee19?w=400' },
-    { destino: 'Aruba', duracion: '6 días', precio: 42000, region: 'caribe', imagen: 'https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=400' }
+    { destino: 'París Romántico', duracion: '7 días', precio: 45000, precioAnterior: 52000, descuento: 15, region: 'europa', imagen: 'https://picsum.photos/seed/photo-1502602898657-3e91760cbb34?w=400' },
+    { destino: 'Roma Imperial', duracion: '6 días', precio: 38000, region: 'europa', imagen: 'https://picsum.photos/seed/photo-1552832230-c0197dd311b5?w=400' },
+    { destino: 'Barcelona Gaudí', duracion: '5 días', precio: 32000, region: 'europa', imagen: 'https://picsum.photos/seed/photo-1583422409516-2895a77efded?w=400' },
+    { destino: 'Santorini', duracion: '6 días', precio: 55000, precioAnterior: 65000, descuento: 15, region: 'europa', imagen: 'https://picsum.photos/seed/photo-1570077188670-e3a8d69ac5ff?w=400' },
+    { destino: 'Cancún', duracion: '5 días', precio: 19900, precioAnterior: 25000, descuento: 20, region: 'mexico', imagen: 'https://picsum.photos/seed/photo-1552074284-5e88ef1aef18?w=400' },
+    { destino: 'Los Cabos', duracion: '4 días', precio: 22000, region: 'mexico', imagen: 'https://picsum.photos/seed/photo-1519046904884-53103b34b206?w=400' },
+    { destino: 'Puerto Vallarta', duracion: '5 días', precio: 18500, region: 'mexico', imagen: 'https://picsum.photos/seed/photo-1510097467424-192d713fd8b2?w=400' },
+    { destino: 'Riviera Maya', duracion: '6 días', precio: 24000, region: 'mexico', imagen: 'https://picsum.photos/seed/photo-1582719508461-905c673771fd?w=400' },
+    { destino: 'Machu Picchu', duracion: '8 días', precio: 35000, region: 'latam', imagen: 'https://picsum.photos/seed/photo-1587595431973-160d0d94add1?w=400' },
+    { destino: 'Buenos Aires', duracion: '6 días', precio: 28000, region: 'latam', imagen: 'https://picsum.photos/seed/photo-1612294037637-ec328d0e075e?w=400' },
+    { destino: 'Punta Cana', duracion: '7 días', precio: 29500, precioAnterior: 38000, descuento: 22, region: 'caribe', imagen: 'https://picsum.photos/seed/photo-1548574505-5e239809ee19?w=400' },
+    { destino: 'Aruba', duracion: '6 días', precio: 42000, region: 'caribe', imagen: 'https://picsum.photos/seed/photo-1559128010-7c1ad6e1b6a5?w=400' }
   ];
 
   testimonios = [

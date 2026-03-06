@@ -347,13 +347,13 @@ export class GaleriaComponent implements OnInit {
         nombre: 'Salón Principal',
         descripcion: 'Elegante salón con capacidad para grandes eventos, iluminación ambiental y pista de baile.',
         capacidad: 300,
-        imagen360: 'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=1200',
+        imagen360: 'https://picsum.photos/seed/photo-1519167758481-83f550bb49b3?w=1200',
         imagenes: [
-          'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=400',
-          'https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=400',
-          'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400',
-          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400',
-          'https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=400'
+          'https://picsum.photos/seed/photo-1519167758481-83f550bb49b3?w=400',
+          'https://picsum.photos/seed/photo-1478146896981-b80fe463b330?w=400',
+          'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=400',
+          'https://picsum.photos/seed/photo-1507003211169-0a1dd7228f2d?w=400',
+          'https://picsum.photos/seed/photo-1505236858219-8359eb29e329?w=400'
         ],
         amenidades: ['Aire acondicionado', 'Pista de baile', 'Escenario', 'Sistema de sonido']
       },
@@ -362,11 +362,11 @@ export class GaleriaComponent implements OnInit {
         nombre: 'Jardín Exterior',
         descripcion: 'Hermoso jardín con fuente central, perfecto para ceremonias al aire libre.',
         capacidad: 200,
-        imagen360: 'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=1200',
+        imagen360: 'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=1200',
         imagenes: [
-          'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400',
-          'https://images.unsplash.com/photo-1510076857177-7470076d4098?w=400',
-          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400'
+          'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=400',
+          'https://picsum.photos/seed/photo-1510076857177-7470076d4098?w=400',
+          'https://picsum.photos/seed/photo-1507003211169-0a1dd7228f2d?w=400'
         ],
         amenidades: ['Fuente', 'Gazebo', 'Iluminación', 'Áreas verdes']
       },
@@ -375,10 +375,10 @@ export class GaleriaComponent implements OnInit {
         nombre: 'Terraza Rooftop',
         descripcion: 'Terraza con vista panorámica de la ciudad, ideal para cócteles y eventos íntimos.',
         capacidad: 80,
-        imagen360: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200',
+        imagen360: 'https://picsum.photos/seed/photo-1540575467063-178a50c2df87?w=1200',
         imagenes: [
-          'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400',
-          'https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=400'
+          'https://picsum.photos/seed/photo-1540575467063-178a50c2df87?w=400',
+          'https://picsum.photos/seed/photo-1505236858219-8359eb29e329?w=400'
         ],
         amenidades: ['Vista panorámica', 'Bar', 'Lounge', 'Calefacción exterior']
       },
@@ -387,10 +387,10 @@ export class GaleriaComponent implements OnInit {
         nombre: 'Capilla',
         descripcion: 'Capilla íntima para ceremonias religiosas con vitrales y decoración clásica.',
         capacidad: 100,
-        imagen360: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=1200',
+        imagen360: 'https://picsum.photos/seed/photo-1519741497674-611481863552?w=1200',
         imagenes: [
-          'https://images.unsplash.com/photo-1519741497674-611481863552?w=400',
-          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400'
+          'https://picsum.photos/seed/photo-1519741497674-611481863552?w=400',
+          'https://picsum.photos/seed/photo-1507003211169-0a1dd7228f2d?w=400'
         ],
         amenidades: ['Órgano', 'Vitrales', 'Altar', 'Bancas de madera']
       }
@@ -404,12 +404,12 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-11-15'),
         zona: 'Salón Principal',
         imagenes: [
-          'https://images.unsplash.com/photo-1519741497674-611481863552?w=400',
-          'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400',
-          'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=400',
-          'https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=400',
-          'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=400',
-          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400'
+          'https://picsum.photos/seed/photo-1519741497674-611481863552?w=400',
+          'https://picsum.photos/seed/photo-1511285560929-80b456fea0bc?w=400',
+          'https://picsum.photos/seed/photo-1519225421980-715cb0215aed?w=400',
+          'https://picsum.photos/seed/photo-1465495976277-4387d4b0b4c6?w=400',
+          'https://picsum.photos/seed/photo-1522673607200-164d1b6ce486?w=400',
+          'https://picsum.photos/seed/photo-1507003211169-0a1dd7228f2d?w=400'
         ],
         destacado: true
       },
@@ -420,10 +420,10 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-10-20'),
         zona: 'Jardín Exterior',
         imagenes: [
-          'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400',
-          'https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=400',
-          'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=400',
-          'https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=400'
+          'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=400',
+          'https://picsum.photos/seed/photo-1505236858219-8359eb29e329?w=400',
+          'https://picsum.photos/seed/photo-1519167758481-83f550bb49b3?w=400',
+          'https://picsum.photos/seed/photo-1478146896981-b80fe463b330?w=400'
         ],
         destacado: false
       },
@@ -434,9 +434,9 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-09-10'),
         zona: 'Terraza Rooftop',
         imagenes: [
-          'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400',
-          'https://images.unsplash.com/photo-1511578314322-379afb476865?w=400',
-          'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400'
+          'https://picsum.photos/seed/photo-1540575467063-178a50c2df87?w=400',
+          'https://picsum.photos/seed/photo-1511578314322-379afb476865?w=400',
+          'https://picsum.photos/seed/photo-1505373877841-8d25f7d46678?w=400'
         ],
         destacado: true
       },
@@ -447,9 +447,9 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-08-25'),
         zona: 'Capilla',
         imagenes: [
-          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400',
-          'https://images.unsplash.com/photo-1519741497674-611481863552?w=400',
-          'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400'
+          'https://picsum.photos/seed/photo-1507003211169-0a1dd7228f2d?w=400',
+          'https://picsum.photos/seed/photo-1519741497674-611481863552?w=400',
+          'https://picsum.photos/seed/photo-1511285560929-80b456fea0bc?w=400'
         ],
         destacado: false
       },
@@ -460,8 +460,8 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-07-18'),
         zona: 'Salón Principal',
         imagenes: [
-          'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=400',
-          'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400'
+          'https://picsum.photos/seed/photo-1519167758481-83f550bb49b3?w=400',
+          'https://picsum.photos/seed/photo-1464366400600-7168b8af9bc3?w=400'
         ],
         destacado: false
       },
@@ -472,9 +472,9 @@ export class GaleriaComponent implements OnInit {
         fecha: new Date('2025-06-05'),
         zona: 'Salón Principal',
         imagenes: [
-          'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400',
-          'https://images.unsplash.com/photo-1511578314322-379afb476865?w=400',
-          'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400'
+          'https://picsum.photos/seed/photo-1505373877841-8d25f7d46678?w=400',
+          'https://picsum.photos/seed/photo-1511578314322-379afb476865?w=400',
+          'https://picsum.photos/seed/photo-1540575467063-178a50c2df87?w=400'
         ],
         destacado: false
       }
